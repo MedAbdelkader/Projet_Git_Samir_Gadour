@@ -46,6 +46,7 @@ public class VenteTest {
 
     // Appliquer une remise
     venteManagement.appliquerRemiseProduit(produit1, 10);
+    venteManagement.appliquerRemiseProduit(produit2, 10);
 }
 }
 
